@@ -7,7 +7,7 @@ Mello's main interface consists of a board with multiple lists, and each list co
 Users can also assign tasks to team members and view progress updates in real-time. Mello's notifications system ensures that everyone is kept up-to-date with changes and updates to the board.
 
 ![Screenshot_2023-05-08-11-35-36-66_9e7f7a482eca00d31b437bf3d82b9bf4](https://user-images.githubusercontent.com/108234210/236765585-0bab3114-1d1e-4ee5-9e9e-a45f2b782fe8.jpg)
-
+![Screenshot_2023-05-08-11-45-49-49_9e7f7a482eca00d31b437bf3d82b9bf4](https://user-images.githubusercontent.com/108234210/236766891-be6d46f1-3794-42aa-9b26-74d33dfcc3f7.jpg)
 ![Screenshot_2023-05-08-11-35-53-24_9e7f7a482eca00d31b437bf3d82b9bf4](https://user-images.githubusercontent.com/108234210/236765602-141e3fdd-e95d-45b1-b250-f8d71211b181.jpg)
 ![Screenshot_2023-05-08-11-38-54-51_9e7f7a482eca00d31b437bf3d82b9bf4](https://user-images.githubusercontent.com/108234210/236765606-0c990845-ff8c-4a40-81be-48abed1f6535.jpg)
 ![Screenshot_2023-05-08-11-39-14-93_9e7f7a482eca00d31b437bf3d82b9bf4](https://user-images.githubusercontent.com/108234210/236765611-d1291905-bf49-4b96-83f0-e42ba64fc7ae.jpg)
