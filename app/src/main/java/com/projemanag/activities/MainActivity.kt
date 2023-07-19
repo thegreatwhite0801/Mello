@@ -35,9 +35,7 @@ class MainActivity : BaseActivity(), NavigationView.OnNavigationItemSelectedList
     // A global variable for SharedPreferences
     private lateinit var mSharedPreferences: SharedPreferences
 
-    /**
-     * This function is auto created by Android when the Activity Class is created.
-     */
+
     override fun onCreate(savedInstanceState: Bundle?) {
         //This call the parent constructor
         super.onCreate(savedInstanceState)
@@ -215,7 +213,7 @@ class MainActivity : BaseActivity(), NavigationView.OnNavigationItemSelectedList
 
             rv_boards_list.visibility = View.VISIBLE
             tv_no_boards_available.visibility = View.GONE
-
+            lottie_animation_view6.visibility=View.GONE
             rv_boards_list.layoutManager = LinearLayoutManager(this@MainActivity)
             rv_boards_list.setHasFixedSize(true)
 
@@ -233,6 +231,8 @@ class MainActivity : BaseActivity(), NavigationView.OnNavigationItemSelectedList
             })
         } else {
             rv_boards_list.visibility = View.GONE
+            lottie_animation_view6.visibility=View.VISIBLE
+
             tv_no_boards_available.visibility = View.VISIBLE
         }
     }

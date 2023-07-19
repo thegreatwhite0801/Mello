@@ -77,7 +77,19 @@
                     android:textColor="@android:color/white"
                     android:textSize="@dimen/btn_text_size" />
             </LinearLayout>
+
         </androidx.cardview.widget.CardView>
 
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottie_animation_view6"
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="30dp"
+
+            android:layout_gravity="center"
+            app:lottie_autoPlay="true"
+            app:lottie_rawRes="@raw/pages"
+            app:lottie_loop="true"
+            />
     </LinearLayout>
 </LinearLayout>
